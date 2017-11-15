@@ -1,0 +1,243 @@
+********
+Processed: ALICEGÇÖS ADVENTURES IN WONDERLAND.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 33821
+  Male   = 59319
+  Difference = 25498; 63.68%
+  Verdict: MALE
+Genre: Formal
+  Female = 33190
+  Male   = 40472
+  Difference = 7282; 54.94%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Total words: 27330
+
+****
+
+
+
+********
+Processed: Anders - Birds.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 29871
+  Male   = 35648
+  Difference = 5777; 54.4%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Genre: Formal
+  Female = 25031
+  Male   = 23685
+  Difference = -1346; 48.61%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 21702
+
+****
+
+
+
+********
+Processed: Bronte - Wuthering Heights.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 170830
+  Male   = 195922
+  Difference = 25092; 53.42%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Genre: Formal
+  Female = 171087
+  Male   = 128505
+  Difference = -42582; 42.89%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 122418
+
+****
+
+
+
+********
+Processed: Common Reader.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 118316
+  Male   = 187161
+  Difference = 68845; 61.26%
+  Verdict: MALE
+Genre: Formal
+  Female = 116546
+  Male   = 120543
+  Difference = 3997; 50.84%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Total words: 88868
+
+****
+
+
+
+********
+Processed: Emma.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 258458
+  Male   = 272277
+  Difference = 13819; 51.3%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Genre: Formal
+  Female = 258626
+  Male   = 187512
+  Difference = -71114; 42.03%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 161973
+
+****
+
+
+
+********
+Processed: Hemingway - Bell.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 265010
+  Male   = 415600
+  Difference = 150590; 61.06%
+  Verdict: MALE
+Genre: Formal
+  Female = 230580
+  Male   = 259364
+  Difference = 28784; 52.93%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Total words: 179351
+
+****
+
+
+
+********
+Processed: HerLand.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 70450
+  Male   = 101249
+  Difference = 30799; 58.96%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Genre: Formal
+  Female = 70022
+  Male   = 67149
+  Difference = -2873; 48.95%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 53916
+
+****
+
+
+
+********
+Processed: My Antonia by Willa Cather.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 107309
+  Male   = 152842
+  Difference = 45533; 58.75%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Genre: Formal
+  Female = 111558
+  Male   = 86381
+  Difference = -25177; 43.64%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 85180
+
+****
+
+
+
+********
+Processed: PRIDE AND PREJUDICE.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 192202
+  Male   = 214228
+  Difference = 22026; 52.7%
+  Verdict: Weak MALE
+
+Weak emphasis could indicate European.
+Genre: Formal
+  Female = 199021
+  Male   = 144586
+  Difference = -54435; 42.07%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 122818
+
+****
+
+
+
+********
+Processed: Shelley - Frankenstein.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 80698
+  Male   = 147494
+  Difference = 66796; 64.63%
+  Verdict: MALE
+Genre: Formal
+  Female = 99251
+  Male   = 83801
+  Difference = -15450; 45.77%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 75232
+
+****
+
+
+
+********
+Processed: The Awakening.txt
+**** Gender Analysis ****
+Genre: Informal
+  Female = 56775
+  Male   = 86940
+  Difference = 30165; 60.49%
+  Verdict: MALE
+Genre: Formal
+  Female = 78986
+  Male   = 55558
+  Difference = -23428; 41.29%
+  Verdict: Weak FEMALE
+
+Weak emphasis could indicate European.
+Total words: 50670
+
+****
+
+
+
